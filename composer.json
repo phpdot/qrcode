@@ -11,7 +11,7 @@
     ],
     "keywords": ["qrcode", "qr", "svg", "png", "phpdot"],
     "require": {
-        "php": ">=8.3",
+        "php": ">=8.4",
         "ext-gd": "*",
         "bacon/bacon-qr-code": "^3.0"
     },
